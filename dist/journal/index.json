@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ufc-qatar-20261121",
+    "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
+    "date": "2026-11-21",
+    "asOf": "2026-11-19T20:08:55.474821+00:00",
+    "file": "journal/ufc-qatar-20261121-20261119T200855.csv",
+    "count": 12,
+    "issued": 8,
+    "fingerprint": "7e6a93aca559fe71a2d58d87ce88051bbbf78bc67134208a3f6c4cd2555c390d"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-14T14:00:12.032853+00:00",
+    "file": "journal/ufc-334-20261114T140012.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "dfd4949a802c4642e35e03ca2ff48a1f379d9931398f9827b8b1ece156a8799e"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-13T20:06:09.287203+00:00",
+    "file": "journal/ufc-334-20261113T200609.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "9e0ec49e5a974ca411ae1d29a2943c05fbb226121a07f88221a0547def070aa9"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-13T14:01:43.841135+00:00",
+    "file": "journal/ufc-334-20261113T140143.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "ff210cef53f58e9d7671fa6fc6a4364aed5499fbd895f46ee675083692211a89"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-12T20:03:25.387095+00:00",
+    "file": "journal/ufc-334-20261112T200325.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "70fcd17e2ee2d8458d79838a69eb1375696934db4704a1758856fdc0675d0d13"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-12T14:06:38.197422+00:00",
+    "file": "journal/ufc-334-20261112T140638.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "49f8f4e069887dd9bb96efa5ec547a3c86bf41d1e6582fa44dcb4e9ddd6fa0e8"
+  },
+  {
+    "id": "ufc-334",
+    "event": "UFC 334 \u00b7 Gane vs Hokit",
+    "date": "2026-11-14",
+    "asOf": "2026-11-08T13:59:01.640557+00:00",
+    "file": "journal/ufc-334-20261108T135901.csv",
+    "count": 13,
+    "issued": 10,
+    "fingerprint": "767d51186d096dc225ea3e648862fd18897be498d53bd42672fc26e28166ae14"
+  },
+  {
+    "id": "ufc-vegas-124",
+    "event": "UFC Vegas 124",
+    "date": "2026-11-07",
+    "asOf": "2026-11-07T20:05:35+00:00",
+    "file": "journal/ufc-vegas-124-20261107T200535.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "b96430c7e93b1166d00b1b9fa26fda41ba41b3aa92c34fe7e01e9a1365ba1008",
+    "scored": "journal/ufc-vegas-124-20261107T200535-results-94c66a853d.csv",
+    "result": "journal/ufc-vegas-124-20261107T200535-results-94c66a853d.csv"
+  },
+  {
+    "id": "ufc-vegas-124",
+    "event": "UFC Vegas 124",
+    "date": "2026-11-07",
+    "asOf": "2026-11-07T19:51:29.576035+00:00",
+    "file": "journal/ufc-vegas-124-20261107T195129.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "f0df93fa1b37b5425a80f0dfc02ffa70c998d985c80301393e0a80ac5a5a53fe",
+    "scored": "journal/ufc-vegas-124-20261107T195129-results-94c66a853d.csv",
+    "result": "journal/ufc-vegas-124-20261107T195129-results-94c66a853d.csv"
+  },
+  {
+    "id": "ufc-vegas-124",
+    "event": "UFC Vegas 124",
+    "date": "2026-11-07",
+    "asOf": "2026-11-07T14:02:29+00:00",
+    "file": "journal/ufc-vegas-124-20261107T140229.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "a5439354f1c2d1db087f4539d6daa2d744df41dabbc5674bf81454a31dda0862",
+    "scored": "journal/ufc-vegas-124-20261107T140229-results-3f29fed349.csv",
+    "result": "journal/ufc-vegas-124-20261107T140229-results-3f29fed349.csv"
+  },
+  {
+    "id": "ufc-vegas-124",
+    "event": "UFC Vegas 124",
+    "date": "2026-11-07",
+    "asOf": "2026-11-07T05:40:21+00:00",
+    "file": "journal/ufc-vegas-124-20261107T054021.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "993228e19d32639abed0eb04d70ae9cf96d83d7d685fd9ef92bbbe1417fb9f93",
+    "scored": "journal/ufc-vegas-124-20261107T054021-results-3f29fed349.csv",
+    "result": "journal/ufc-vegas-124-20261107T054021-results-3f29fed349.csv"
+  },
+  {
+    "id": "ufc-vegas-124",
+    "event": "UFC Vegas 124",
+    "date": "2026-11-07",
+    "asOf": "2026-11-07T04:56:00Z",
+    "file": "journal/ufc-vegas-124-20261107T045600.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "6eea2aeaed591934a9e67ee10b6d4933cc7efdfb7e3943076d503d2042edcb8e",
+    "scored": "journal/ufc-vegas-124-20261107T045600-results-da4deedfde.csv",
+    "result": "journal/ufc-vegas-124-20261107T045600-results-da4deedfde.csv"
+  }
+]

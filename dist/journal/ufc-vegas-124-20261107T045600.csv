@@ -1,0 +1,15 @@
+model,issued,event_date,event_id,fighter_a,fighter_b,p_a,line_a,line_b,veteran_flag,book
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Waldo Cortes Acosta,Johnny Walker,0.5783342447380558,-238,195,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Tatiana Suarez,Virna Jandiroba,0.6501514331629362,-205,170,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Davey Grant,Elijah Smith,0.24364066775471593,260,-325,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Billy Elekana,Lucas Fernando,,270,-340,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Priscila Cachoeira,Nina Milosevic,,390,-520,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Mitch Raposo,Marcos Degli,,200,-245,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Keiichiro Nakamura,Ollie Schmid,,-375,295,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Gabriel Lorenco,Thomas Petersen,,140,-166,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Karine Silva,Gabriella Fernandes,0.6337176688071711,-225,185,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Jose Delano,Murtazali Magomedov,,-115,-105,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Austin Bashi,Carlos Calderon,,-700,500,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Mantas Kondratavicius,Andre Petroski,,-325,260,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Seokhyeon Ko,Wellington Turman,0.6049642725529801,-675,490,False,DraftKings · Nov 6 snapshot
+CL-1,2026-11-07T04:56:00Z,2026-11-07,ufc-vegas-124,Jonny Parsons,Jose Henrique,,185,-225,False,DraftKings · Nov 6 snapshot

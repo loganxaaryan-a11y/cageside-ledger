@@ -1,0 +1,176 @@
+{
+  "event": "ufc-vegas-124",
+  "snapshot": "journal/ufc-vegas-124-20261107T200535.csv",
+  "pending": 0,
+  "void": 0,
+  "outcomes": [
+    {
+      "pick": "Waldo Cortes Acosta",
+      "confidence": 0.5783342447380558,
+      "tier": "CL-1",
+      "favorite": "Waldo Cortes Acosta",
+      "winner": "Johnny Walker",
+      "method": "KO/TKO",
+      "matchup": [
+        "Waldo Cortes Acosta",
+        "Johnny Walker"
+      ]
+    },
+    {
+      "pick": "Tatiana Suarez",
+      "confidence": 0.6501514331629362,
+      "tier": "CL-1",
+      "favorite": "Tatiana Suarez",
+      "winner": "Tatiana Suarez",
+      "method": "Decision",
+      "matchup": [
+        "Tatiana Suarez",
+        "Virna Jandiroba"
+      ]
+    },
+    {
+      "pick": "Elijah Smith",
+      "confidence": 0.7563593322452841,
+      "tier": "CL-1",
+      "favorite": "Elijah Smith",
+      "winner": "Elijah Smith",
+      "method": "KO/TKO",
+      "matchup": [
+        "Davey Grant",
+        "Elijah Smith"
+      ]
+    },
+    {
+      "pick": "Billy Elekana",
+      "confidence": 0.5332697219055834,
+      "tier": "Limited history",
+      "favorite": "Lucas Fernando",
+      "winner": "Lucas Fernando",
+      "method": "Decision",
+      "matchup": [
+        "Billy Elekana",
+        "Lucas Fernando"
+      ]
+    },
+    {
+      "pick": "Nina Milosevic",
+      "confidence": 0.6857760251979732,
+      "tier": "Limited history",
+      "favorite": "Nina Milosevic",
+      "winner": "Nina Milosevic",
+      "method": "KO/TKO",
+      "matchup": [
+        "Priscila Cachoeira",
+        "Nina Milosevic"
+      ]
+    },
+    {
+      "pick": "Mitch Raposo",
+      "confidence": 0.5416435645307209,
+      "tier": "Limited history",
+      "favorite": "Marcos Degli",
+      "winner": "Mitch Raposo",
+      "method": "Decision",
+      "matchup": [
+        "Mitch Raposo",
+        "Marcos Degli"
+      ]
+    },
+    {
+      "pick": "Ollie Schmid",
+      "confidence": 0.5175803846726099,
+      "tier": "Limited history",
+      "favorite": "Keiichiro Nakamura",
+      "winner": "Ollie Schmid",
+      "method": "Decision",
+      "matchup": [
+        "Keiichiro Nakamura",
+        "Ollie Schmid"
+      ]
+    },
+    {
+      "pick": null,
+      "confidence": 0.5021437942527781,
+      "tier": "Limited history",
+      "favorite": "Thomas Petersen",
+      "winner": "Thomas Petersen",
+      "method": "KO/TKO",
+      "matchup": [
+        "Gabriel Lorenco",
+        "Thomas Petersen"
+      ]
+    },
+    {
+      "pick": "Karine Silva",
+      "confidence": 0.6337176688071711,
+      "tier": "CL-1",
+      "favorite": "Karine Silva",
+      "winner": "Karine Silva",
+      "method": "Decision",
+      "matchup": [
+        "Karine Silva",
+        "Gabriella Fernandes"
+      ]
+    },
+    {
+      "pick": "Murtazali Magomedov",
+      "confidence": 0.5517136442221062,
+      "tier": "Limited history",
+      "favorite": "Jose Delano",
+      "winner": "Murtazali Magomedov",
+      "method": "Decision",
+      "matchup": [
+        "Jose Delano",
+        "Murtazali Magomedov"
+      ]
+    },
+    {
+      "pick": "Austin Bashi",
+      "confidence": 0.6069561343367514,
+      "tier": "Limited history",
+      "favorite": "Austin Bashi",
+      "winner": "Austin Bashi",
+      "method": "Submission",
+      "matchup": [
+        "Austin Bashi",
+        "Carlos Calderon"
+      ]
+    },
+    {
+      "pick": "Mantas Kondratavicius",
+      "confidence": 0.5782549072711254,
+      "tier": "Limited history",
+      "favorite": "Mantas Kondratavicius",
+      "winner": "Andre Petroski",
+      "method": "KO/TKO",
+      "matchup": [
+        "Mantas Kondratavicius",
+        "Andre Petroski"
+      ]
+    },
+    {
+      "pick": "Seokhyeon Ko",
+      "confidence": 0.6049642725529801,
+      "tier": "CL-1",
+      "favorite": "Seokhyeon Ko",
+      "winner": "Seokhyeon Ko",
+      "method": "Decision",
+      "matchup": [
+        "Seokhyeon Ko",
+        "Wellington Turman"
+      ]
+    },
+    {
+      "pick": "Jose Henrique",
+      "confidence": 0.6734173124016971,
+      "tier": "Limited history",
+      "favorite": "Jose Henrique",
+      "winner": "Jose Henrique",
+      "method": "KO/TKO",
+      "matchup": [
+        "Jonny Parsons",
+        "Jose Henrique"
+      ]
+    }
+  ]
+}
