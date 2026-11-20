@@ -3,6 +3,16 @@
     "id": "ufc-qatar-20261121",
     "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
     "date": "2026-11-21",
+    "asOf": "2026-11-20T19:57:01+00:00",
+    "file": "journal/ufc-qatar-20261121-20261120T195701.csv",
+    "count": 12,
+    "issued": 8,
+    "fingerprint": "4111aea59a14c5b831554c5c3a27182cfb1c85e7928c10e911bee1ae2ebacac2"
+  },
+  {
+    "id": "ufc-qatar-20261121",
+    "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
+    "date": "2026-11-21",
     "asOf": "2026-11-20T13:58:51+00:00",
     "file": "journal/ufc-qatar-20261121-20261120T135851.csv",
     "count": 12,
