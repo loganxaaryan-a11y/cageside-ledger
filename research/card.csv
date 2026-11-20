@@ -1,13 +1,13 @@
 fighter_a,fighter_b,division,odds_a,odds_b,scheduled_rounds
-Jiří Procházka,Navajo Stirling,Light Heavyweight,,,5
-Aljamain Sterling,Kevin Vallejos,Featherweight,,,3
-Brian Ortega,Dan Hooker,Lightweight,,,3
-Kyoji Horiguchi,Asu Almabayev,Flyweight,,,3
-Jared Cannonier,Ikram Aliskerov,Middleweight,,,3
-Aleksandre Topuria,Santiago Luna,Bantamweight,,,3
-Shamil Gaziev,Tallison Teixeira,Heavyweight,,,3
-Amir Albazi,Alessandro Costa,Flyweight,,,3
-Jake Matthews,Tahir Abdullayev,Welterweight,,,3
-Nikolas Motta,Dom Mar Fan,Lightweight,,,3
-Diyar Nurgozhay,Alik Lorenz,Light Heavyweight,,,3
-Shoaib Yousaf,John Mitchell,Lightweight,,,3
+Jiří Procházka,Navajo Stirling,Light Heavyweight,145,-175,5
+Aljamain Sterling,Kevin Vallejos,Featherweight,114,-135,3
+Dan Hooker,Brian Ortega,Lightweight,-185,154,3
+Kyoji Horiguchi,Asu Almabayev,Flyweight,-198,164,3
+Jared Cannonier,Ikram Aliskerov,Middleweight,235,-290,3
+Aleksandre Topuria,Santiago Luna,Bantamweight,-298,240,3
+Shamil Gaziev,Tallison Teixeira,Heavyweight,-198,164,3
+Amir Albazi,Alessandro Costa,Flyweight,-108,-112,3
+Jake Matthews,Tahir Abdullayev,Welterweight,-238,195,3
+Nikolas Motta,Dom Mar Fan,Lightweight,136,-162,3
+Diyar Nurgozhay,Alik Lorenz,Light Heavyweight,-245,200,3
+Shoaib Yousaf,John Mitchell,Lightweight,120,-142,3

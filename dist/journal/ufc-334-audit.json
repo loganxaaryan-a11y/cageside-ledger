@@ -1,0 +1,387 @@
+{
+  "event": "ufc-334",
+  "snapshot": "journal/ufc-334-20261114T140012.csv",
+  "snapshot_as_of": "2026-11-14T14:00:12.032853+00:00",
+  "scoring_rule": "Each matchup once from the last saved snapshot before the card; 50-51% is a toss-up.",
+  "summary": {
+    "CL-1": {
+      "settled": 9,
+      "picks": 9,
+      "correct": 4,
+      "tossups": 0
+    },
+    "Limited history": {
+      "settled": 3,
+      "picks": 3,
+      "correct": 2,
+      "tossups": 0
+    },
+    "same_book_favorites": {
+      "matched": 12,
+      "wins": 9
+    },
+    "pending": 0,
+    "void": 1
+  },
+  "misses": [
+    {
+      "matchup": [
+        "Donte Johnson",
+        "Cesar Almeida"
+      ],
+      "tier": "CL-1",
+      "pick": "Donte Johnson",
+      "confidence": 0.740920182726219,
+      "winner": "Cesar Almeida",
+      "method": "KO/TKO",
+      "favorite": "Donte Johnson",
+      "favorite_won": false,
+      "p_distance": null,
+      "p_ko": null,
+      "p_submission": null
+    },
+    {
+      "matchup": [
+        "Stephen Thompson",
+        "Charles Radtke"
+      ],
+      "tier": "CL-1",
+      "pick": "Charles Radtke",
+      "confidence": 0.6044025871523744,
+      "winner": "Stephen Thompson",
+      "method": "KO/TKO",
+      "favorite": "Stephen Thompson",
+      "favorite_won": true,
+      "p_distance": 0.5461238649819881,
+      "p_ko": 0.38044268566274325,
+      "p_submission": 0.16907690294658834
+    },
+    {
+      "matchup": [
+        "Bilal Hasan",
+        "Luis Gurule"
+      ],
+      "tier": "Limited history",
+      "pick": "Bilal Hasan",
+      "confidence": 0.6992359608317065,
+      "winner": "Luis Gurule",
+      "method": "Decision",
+      "favorite": "Bilal Hasan",
+      "favorite_won": false,
+      "p_distance": 0.5130026828285054,
+      "p_ko": 0.2678194528947852,
+      "p_submission": 0.1605597685160886
+    },
+    {
+      "matchup": [
+        "Caio Borralho",
+        "Yousri Belgaroui"
+      ],
+      "tier": "CL-1",
+      "pick": "Yousri Belgaroui",
+      "confidence": 0.551039002324916,
+      "winner": "Caio Borralho",
+      "method": "Decision",
+      "favorite": "Caio Borralho",
+      "favorite_won": true,
+      "p_distance": 0.4764028078950408,
+      "p_ko": 0.337520127512458,
+      "p_submission": 0.11205341390333996
+    },
+    {
+      "matchup": [
+        "Kayla Harrison",
+        "Amanda Nunes"
+      ],
+      "tier": "CL-1",
+      "pick": "Amanda Nunes",
+      "confidence": 0.6140922856029803,
+      "winner": "Kayla Harrison",
+      "method": "Submission",
+      "favorite": "Kayla Harrison",
+      "favorite_won": true,
+      "p_distance": 0.4062791039386543,
+      "p_ko": 0.35023481078226487,
+      "p_submission": 0.25028001288788826
+    },
+    {
+      "matchup": [
+        "Ciryl Gane",
+        "Josh Hokit"
+      ],
+      "tier": "CL-1",
+      "pick": "Josh Hokit",
+      "confidence": 0.5398690969932428,
+      "winner": "Ciryl Gane",
+      "method": "Decision",
+      "favorite": "Ciryl Gane",
+      "favorite_won": true,
+      "p_distance": 0.2509420771523654,
+      "p_ko": 0.6568169739183617,
+      "p_submission": 0.13687476020589123
+    }
+  ],
+  "largest_finish_surprises": {
+    "distance": {
+      "matchup": [
+        "Ciryl Gane",
+        "Josh Hokit"
+      ],
+      "tier": "CL-1",
+      "pick": "Josh Hokit",
+      "confidence": 0.5398690969932428,
+      "winner": "Ciryl Gane",
+      "method": "Decision",
+      "favorite": "Ciryl Gane",
+      "favorite_won": true,
+      "p_distance": 0.2509420771523654,
+      "p_ko": 0.6568169739183617,
+      "p_submission": 0.13687476020589123
+    },
+    "KO/TKO": {
+      "matchup": [
+        "Jim Miller",
+        "Terrance McKinney"
+      ],
+      "tier": "CL-1",
+      "pick": "Terrance McKinney",
+      "confidence": 0.7663579797790627,
+      "winner": "Terrance McKinney",
+      "method": "KO/TKO",
+      "favorite": "Terrance McKinney",
+      "favorite_won": true,
+      "p_distance": 0.4190860793885364,
+      "p_ko": 0.295700064014117,
+      "p_submission": 0.30443135001516697
+    },
+    "submission": {
+      "matchup": [
+        "Kayla Harrison",
+        "Amanda Nunes"
+      ],
+      "tier": "CL-1",
+      "pick": "Amanda Nunes",
+      "confidence": 0.6140922856029803,
+      "winner": "Kayla Harrison",
+      "method": "Submission",
+      "favorite": "Kayla Harrison",
+      "favorite_won": true,
+      "p_distance": 0.4062791039386543,
+      "p_ko": 0.35023481078226487,
+      "p_submission": 0.25028001288788826
+    }
+  },
+  "outcomes": [
+    {
+      "matchup": [
+        "Evan Elder",
+        "Samuel Sanches"
+      ],
+      "tier": "Limited history",
+      "pick": "Evan Elder",
+      "confidence": 0.5122787215953398,
+      "winner": "Evan Elder",
+      "method": "Decision",
+      "favorite": "Samuel Sanches",
+      "favorite_won": false,
+      "p_distance": 0.47566907272972686,
+      "p_ko": 0.2759208494318604,
+      "p_submission": 0.1768694340413553
+    },
+    {
+      "matchup": [
+        "Alatengheili",
+        "Juan Diaz"
+      ],
+      "tier": "Limited history",
+      "pick": "Juan Diaz",
+      "confidence": 0.5110998124176307,
+      "winner": "Juan Diaz",
+      "method": "Decision",
+      "favorite": "Juan Diaz",
+      "favorite_won": true,
+      "p_distance": 0.6090994504819787,
+      "p_ko": 0.2185263176397721,
+      "p_submission": 0.17199889219003156
+    },
+    {
+      "matchup": [
+        "Macy Chiasson",
+        "Bia Mesquita"
+      ],
+      "tier": "CL-1",
+      "pick": "Bia Mesquita",
+      "confidence": 0.5985906181744274,
+      "winner": "Bia Mesquita",
+      "method": "Submission",
+      "favorite": "Bia Mesquita",
+      "favorite_won": true,
+      "p_distance": 0.5693629555689992,
+      "p_ko": 0.20994701974368593,
+      "p_submission": 0.33972939319624607
+    },
+    {
+      "matchup": [
+        "Jared Gordon",
+        "Melquizael Costa"
+      ],
+      "tier": "CL-1",
+      "pick": "Melquizael Costa",
+      "confidence": 0.6705952389551972,
+      "winner": "Melquizael Costa",
+      "method": "Decision",
+      "favorite": "Melquizael Costa",
+      "favorite_won": true,
+      "p_distance": 0.5104800710590637,
+      "p_ko": 0.3040077223762976,
+      "p_submission": 0.15969696723166754
+    },
+    {
+      "matchup": [
+        "Donte Johnson",
+        "Cesar Almeida"
+      ],
+      "tier": "CL-1",
+      "pick": "Donte Johnson",
+      "confidence": 0.740920182726219,
+      "winner": "Cesar Almeida",
+      "method": "KO/TKO",
+      "favorite": "Donte Johnson",
+      "favorite_won": false,
+      "p_distance": null,
+      "p_ko": null,
+      "p_submission": null
+    },
+    {
+      "matchup": [
+        "Jim Miller",
+        "Terrance McKinney"
+      ],
+      "tier": "CL-1",
+      "pick": "Terrance McKinney",
+      "confidence": 0.7663579797790627,
+      "winner": "Terrance McKinney",
+      "method": "KO/TKO",
+      "favorite": "Terrance McKinney",
+      "favorite_won": true,
+      "p_distance": 0.4190860793885364,
+      "p_ko": 0.295700064014117,
+      "p_submission": 0.30443135001516697
+    },
+    {
+      "matchup": [
+        "Drew Dober",
+        "Chris Duncan"
+      ],
+      "tier": "CL-1",
+      "pick": "Chris Duncan",
+      "confidence": 0.6274939232801411,
+      "winner": "Chris Duncan",
+      "method": "Decision",
+      "favorite": "Chris Duncan",
+      "favorite_won": true,
+      "p_distance": 0.4463935857956203,
+      "p_ko": 0.25533458935868836,
+      "p_submission": 0.2260162099930094
+    },
+    {
+      "matchup": [
+        "Stephen Thompson",
+        "Charles Radtke"
+      ],
+      "tier": "CL-1",
+      "pick": "Charles Radtke",
+      "confidence": 0.6044025871523744,
+      "winner": "Stephen Thompson",
+      "method": "KO/TKO",
+      "favorite": "Stephen Thompson",
+      "favorite_won": true,
+      "p_distance": 0.5461238649819881,
+      "p_ko": 0.38044268566274325,
+      "p_submission": 0.16907690294658834
+    },
+    {
+      "matchup": [
+        "Bilal Hasan",
+        "Luis Gurule"
+      ],
+      "tier": "Limited history",
+      "pick": "Bilal Hasan",
+      "confidence": 0.6992359608317065,
+      "winner": "Luis Gurule",
+      "method": "Decision",
+      "favorite": "Bilal Hasan",
+      "favorite_won": false,
+      "p_distance": 0.5130026828285054,
+      "p_ko": 0.2678194528947852,
+      "p_submission": 0.1605597685160886
+    },
+    {
+      "matchup": [
+        "Caio Borralho",
+        "Yousri Belgaroui"
+      ],
+      "tier": "CL-1",
+      "pick": "Yousri Belgaroui",
+      "confidence": 0.551039002324916,
+      "winner": "Caio Borralho",
+      "method": "Decision",
+      "favorite": "Caio Borralho",
+      "favorite_won": true,
+      "p_distance": 0.4764028078950408,
+      "p_ko": 0.337520127512458,
+      "p_submission": 0.11205341390333996
+    },
+    {
+      "matchup": [
+        "Kayla Harrison",
+        "Amanda Nunes"
+      ],
+      "tier": "CL-1",
+      "pick": "Amanda Nunes",
+      "confidence": 0.6140922856029803,
+      "winner": "Kayla Harrison",
+      "method": "Submission",
+      "favorite": "Kayla Harrison",
+      "favorite_won": true,
+      "p_distance": 0.4062791039386543,
+      "p_ko": 0.35023481078226487,
+      "p_submission": 0.25028001288788826
+    },
+    {
+      "matchup": [
+        "Ciryl Gane",
+        "Josh Hokit"
+      ],
+      "tier": "CL-1",
+      "pick": "Josh Hokit",
+      "confidence": 0.5398690969932428,
+      "winner": "Ciryl Gane",
+      "method": "Decision",
+      "favorite": "Ciryl Gane",
+      "favorite_won": true,
+      "p_distance": 0.2509420771523654,
+      "p_ko": 0.6568169739183617,
+      "p_submission": 0.13687476020589123
+    }
+  ],
+  "pending": [],
+  "void": [
+    {
+      "matchup": [
+        "Uros Medic",
+        "Kevin Holland"
+      ],
+      "reason": "Draw",
+      "issued_probability": 0.5456985858136858,
+      "tier": "CL-1"
+    }
+  ],
+  "verified_data_faults": [
+    {
+      "fault": "The UFCStats mirror supplied the Medic-Holland draw without a decisive winner or method.",
+      "resolution": "Official UFC results verified a majority draw; it is recorded as void and excluded from winner accuracy.",
+      "source": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results"
+    }
+  ]
+}

@@ -1,1 +1,41 @@
-{"id": "ufc-qatar-20261121", "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling", "date": "2026-11-21", "venue": "ABHA Arena \u00b7 Doha, Qatar", "asOf": "2026-11-19T20:08:55.474821+00:00", "mainCount": 5, "oddsLabel": "No verified bookmaker quote", "sources": [["Official card", "https://www.ufc.com/event/ufc-fight-night-november-21-2026"]], "scouting": {}, "propQuotes": {}}
+{
+  "id": "ufc-qatar-20261121",
+  "event": "UFC Fight Night: Procházka vs. Stirling",
+  "date": "2026-11-21",
+  "venue": "ABHA Arena · Doha, Qatar",
+  "asOf": "2026-11-20T13:58:51+00:00",
+  "mainCount": 5,
+  "oddsLabel": "DraftKings · Nov 20, 8:58 AM ET",
+  "sources": [
+    ["Official card", "https://www.ufc.com/event/ufc-fight-night-november-21-2026"],
+    ["Official card update", "https://www.ufc.com/news/updates-ufc-qatar"],
+    ["Official weigh-in results", "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling"],
+    ["DraftKings moneylines", "https://www.sportsline.com/ufc/odds/"]
+  ],
+  "scouting": {
+    "Tahir Abdullayev": {
+      "note": "Weighed 172 lb, above the welterweight limit. The official weigh-in report lists the bout against Jake Matthews as proceeding on the card.",
+      "source": "https://www.ufc.com/news/official-weigh-results-ufc-qatar-prochazka-vs-stirling"
+    },
+    "Shoaib Yousaf": {
+      "note": "Late-added UFC newcomer on a six-fight winning streak; the official preview says his last three wins were first-round knockouts.",
+      "source": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar"
+    },
+    "John Mitchell": {
+      "note": "Late-added UFC newcomer with an 11-3 professional record and six finishes, according to the official preview.",
+      "source": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar"
+    },
+    "Alik Lorenz": {
+      "note": "UFC newcomer who lost on Contender Series Season 9 before earning a contract in Season 10, according to the official preview.",
+      "source": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-prochazka-vs-stirling-qatar"
+    }
+  },
+  "scoutingAsOf": "2026-11-20T13:58:51+00:00",
+  "propQuotes": {},
+  "ufcStatsBlobIds": {
+    "ufc_fighter_tott.csv": "48e195d5b60c8f26b961c9d5367820d65912a579",
+    "ufc_event_details.csv": "24238cb71d7bec6522a77f285b530274b3c897b9",
+    "ufc_fight_results.csv": "80258ab3d9f413cad9be13fde64beb66dd0bcfa6",
+    "ufc_fight_stats.csv": "2a7b3c813c5988ae19416575cea69cdc73ea3dc3"
+  }
+}

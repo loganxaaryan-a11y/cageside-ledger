@@ -3,6 +3,16 @@
     "id": "ufc-qatar-20261121",
     "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
     "date": "2026-11-21",
+    "asOf": "2026-11-20T13:58:51+00:00",
+    "file": "journal/ufc-qatar-20261121-20261120T135851.csv",
+    "count": 12,
+    "issued": 8,
+    "fingerprint": "ed20ddb6e00a499bd061c35bb729a15ce1fb1becffadd935e1138ebddca3b9ed"
+  },
+  {
+    "id": "ufc-qatar-20261121",
+    "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
+    "date": "2026-11-21",
     "asOf": "2026-11-19T20:08:55.474821+00:00",
     "file": "journal/ufc-qatar-20261121-20261119T200855.csv",
     "count": 12,
@@ -17,7 +27,9 @@
     "file": "journal/ufc-334-20261114T140012.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "dfd4949a802c4642e35e03ca2ff48a1f379d9931398f9827b8b1ece156a8799e"
+    "fingerprint": "dfd4949a802c4642e35e03ca2ff48a1f379d9931398f9827b8b1ece156a8799e",
+    "scored": "journal/ufc-334-20261114T140012-results-5d5539f6a7.csv",
+    "result": "journal/ufc-334-20261114T140012-results-5d5539f6a7.csv"
   },
   {
     "id": "ufc-334",
@@ -27,7 +39,9 @@
     "file": "journal/ufc-334-20261113T200609.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "9e0ec49e5a974ca411ae1d29a2943c05fbb226121a07f88221a0547def070aa9"
+    "fingerprint": "9e0ec49e5a974ca411ae1d29a2943c05fbb226121a07f88221a0547def070aa9",
+    "scored": "journal/ufc-334-20261113T200609-results-5d5539f6a7.csv",
+    "result": "journal/ufc-334-20261113T200609-results-5d5539f6a7.csv"
   },
   {
     "id": "ufc-334",
@@ -37,7 +51,9 @@
     "file": "journal/ufc-334-20261113T140143.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "ff210cef53f58e9d7671fa6fc6a4364aed5499fbd895f46ee675083692211a89"
+    "fingerprint": "ff210cef53f58e9d7671fa6fc6a4364aed5499fbd895f46ee675083692211a89",
+    "scored": "journal/ufc-334-20261113T140143-results-3caf06d2a3.csv",
+    "result": "journal/ufc-334-20261113T140143-results-3caf06d2a3.csv"
   },
   {
     "id": "ufc-334",
@@ -47,7 +63,9 @@
     "file": "journal/ufc-334-20261112T200325.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "70fcd17e2ee2d8458d79838a69eb1375696934db4704a1758856fdc0675d0d13"
+    "fingerprint": "70fcd17e2ee2d8458d79838a69eb1375696934db4704a1758856fdc0675d0d13",
+    "scored": "journal/ufc-334-20261112T200325-results-3caf06d2a3.csv",
+    "result": "journal/ufc-334-20261112T200325-results-3caf06d2a3.csv"
   },
   {
     "id": "ufc-334",
@@ -57,7 +75,9 @@
     "file": "journal/ufc-334-20261112T140638.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "49f8f4e069887dd9bb96efa5ec547a3c86bf41d1e6582fa44dcb4e9ddd6fa0e8"
+    "fingerprint": "49f8f4e069887dd9bb96efa5ec547a3c86bf41d1e6582fa44dcb4e9ddd6fa0e8",
+    "scored": "journal/ufc-334-20261112T140638-results-3caf06d2a3.csv",
+    "result": "journal/ufc-334-20261112T140638-results-3caf06d2a3.csv"
   },
   {
     "id": "ufc-334",
@@ -67,7 +87,8 @@
     "file": "journal/ufc-334-20261108T135901.csv",
     "count": 13,
     "issued": 10,
-    "fingerprint": "767d51186d096dc225ea3e648862fd18897be498d53bd42672fc26e28166ae14"
+    "fingerprint": "767d51186d096dc225ea3e648862fd18897be498d53bd42672fc26e28166ae14",
+    "scored": "journal/ufc-334-20261108T135901-results-1f537f112c.csv"
   },
   {
     "id": "ufc-vegas-124",
