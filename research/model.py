@@ -174,6 +174,9 @@ if closing_path.exists():
     if matched_close:
         out['closingTest']={'model':score(matched_close,'p'),'market':score(matched_close,'closing'),
                             'start':matched_close[0]['day'],'end':matched_close[-1]['day']}
+from challenger import add_shadow
+add_shadow(card, DATA, rows, events, rounds, cutoff, ambiguous, samples, predict,
+           study='--study' in sys.argv)
 (ROOT/'dist/data.json').write_text(json.dumps(out,allow_nan=False,separators=(',',':')))
 print(json.dumps(report,indent=2))
 for r in card:print(r['a']['name'],r['b']['name'],r['p'],r['a']['total'],r['b']['total'],r['vet'])

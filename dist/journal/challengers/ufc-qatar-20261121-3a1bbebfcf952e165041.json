@@ -1,0 +1,57 @@
+{
+  "model": "Recent striking v1",
+  "event": "ufc-qatar-20261121",
+  "eventDate": "2026-11-21",
+  "inputAsOf": "2026-11-20T19:57:01+00:00",
+  "bouts": [
+    {
+      "a": "Ji\u0159\u00ed Proch\u00e1zka",
+      "b": "Navajo Stirling",
+      "cl1": 0.2664476288427712,
+      "shadow": 0.24390187157823395
+    },
+    {
+      "a": "Aljamain Sterling",
+      "b": "Kevin Vallejos",
+      "cl1": 0.4931286337312466,
+      "shadow": 0.4894324373150825
+    },
+    {
+      "a": "Dan Hooker",
+      "b": "Brian Ortega",
+      "cl1": 0.5490132052640498,
+      "shadow": 0.5531070107120971
+    },
+    {
+      "a": "Kyoji Horiguchi",
+      "b": "Asu Almabayev",
+      "cl1": 0.43718083928238566,
+      "shadow": 0.4571474383845383
+    },
+    {
+      "a": "Jared Cannonier",
+      "b": "Ikram Aliskerov",
+      "cl1": 0.22293740811862411,
+      "shadow": 0.2030262780617238
+    },
+    {
+      "a": "Aleksandre Topuria",
+      "b": "Santiago Luna",
+      "cl1": 0.36378885638703395,
+      "shadow": 0.33216866609539836
+    },
+    {
+      "a": "Shamil Gaziev",
+      "b": "Tallison Teixeira",
+      "cl1": 0.2812602989997296,
+      "shadow": 0.31408891269029543
+    },
+    {
+      "a": "Amir Albazi",
+      "b": "Alessandro Costa",
+      "cl1": 0.4478715369429997,
+      "shadow": 0.44924258477174417
+    }
+  ],
+  "recordedAt": "2026-11-21T01:07:04.534242+00:00"
+}

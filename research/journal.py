@@ -75,3 +75,34 @@ if len(sys.argv)>1:
             x['scored']='journal/'+path.name
             if len(output)==x['count']:x['result']=x['scored']
 index_path.write_text(json.dumps(index,indent=2))
+
+# Freeze the experimental and official probabilities together before fight day.
+# Fall back to midnight UTC when the scheduled first bout time is unavailable.
+def archive_striking_shadow():
+    now = dt.datetime.now(dt.timezone.utc)
+    start = dt.datetime.fromisoformat(e.get('firstBoutAt', e['date']+'T00:00:00+00:00'))
+    if start.tzinfo is None or now >= start:
+        return
+    rows = [dict(a=f['a']['name'], b=f['b']['name'], cl1=f['p'], shadow=f['strikingShadow'])
+            for f in data['card'] if f.get('strikingShadow') is not None]
+    if not rows:
+        return
+    snapshot = dict(model='Recent striking v1', event=e['id'], eventDate=e['date'],
+                    inputAsOf=e['asOf'], bouts=rows)
+    key = hashlib.sha256(json.dumps(snapshot,sort_keys=True).encode()).hexdigest()[:20]
+    folder = dest/'challengers'
+    folder.mkdir(exist_ok=True)
+    path = folder/(e['id']+'-'+key+'.json')
+    if not path.exists():
+        import os, tempfile
+        snapshot['recordedAt'] = now.isoformat()
+        with tempfile.NamedTemporaryFile(mode='w',dir=folder) as f:
+            json.dump(snapshot,f,indent=2)
+            f.write('\n')
+            f.flush()
+            try:
+                os.link(f.name,path)
+            except FileExistsError:
+                pass
+
+archive_striking_shadow()

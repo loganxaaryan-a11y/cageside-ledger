@@ -1,0 +1,195 @@
+{
+  "train_before": "2023-01-01",
+  "windows": [
+    [
+      "development",
+      "2023",
+      "2025"
+    ],
+    [
+      "later",
+      "2025",
+      "2026-11-01"
+    ]
+  ],
+  "weights": {
+    "opponent_adjusted_striking": 0.06188950044655422,
+    "recent_stoppages": -0.07505231280491666,
+    "layoff": -0.04972147207229215,
+    "wrestling_exposure": -0.048629368723889406
+  },
+  "winner": {
+    "development": {
+      "baseline": {
+        "n": 625,
+        "accuracy": 0.6224,
+        "brier": 0.22664851436030808,
+        "logloss": 0.6445971436141563,
+        "mean_probability": 0.5059989009452491,
+        "observed": 0.5552
+      },
+      "opponent_adjusted_striking": {
+        "n": 625,
+        "accuracy": 0.6288,
+        "brier": 0.22479090918709288,
+        "logloss": 0.6405161542978565,
+        "mean_probability": 0.5046259157074121,
+        "observed": 0.5552
+      },
+      "recent_stoppages": {
+        "n": 625,
+        "accuracy": 0.624,
+        "brier": 0.22622570366951023,
+        "logloss": 0.6436602182741626,
+        "mean_probability": 0.5051053031842961,
+        "observed": 0.5552
+      },
+      "layoff": {
+        "n": 625,
+        "accuracy": 0.6224,
+        "brier": 0.22637720415668136,
+        "logloss": 0.6439869717856276,
+        "mean_probability": 0.5060681708871736,
+        "observed": 0.5552
+      },
+      "wrestling_exposure": {
+        "n": 625,
+        "accuracy": 0.6304,
+        "brier": 0.22732532463532107,
+        "logloss": 0.6460955993190449,
+        "mean_probability": 0.5075643237700882,
+        "observed": 0.5552
+      }
+    },
+    "later": {
+      "baseline": {
+        "n": 593,
+        "accuracy": 0.6526138279932546,
+        "brier": 0.2219827882400524,
+        "logloss": 0.6345749959522085,
+        "mean_probability": 0.5135261070662729,
+        "observed": 0.5446880269814502
+      },
+      "opponent_adjusted_striking": {
+        "n": 593,
+        "accuracy": 0.6610455311973018,
+        "brier": 0.21987651027228095,
+        "logloss": 0.6299198578629864,
+        "mean_probability": 0.5133331006228202,
+        "observed": 0.5446880269814502
+      },
+      "recent_stoppages": {
+        "n": 593,
+        "accuracy": 0.6593591905564924,
+        "brier": 0.2222873296677472,
+        "logloss": 0.6351616026354496,
+        "mean_probability": 0.5128499207455564,
+        "observed": 0.5446880269814502
+      },
+      "layoff": {
+        "n": 593,
+        "accuracy": 0.654300168634064,
+        "brier": 0.22195179415097097,
+        "logloss": 0.6344823044244455,
+        "mean_probability": 0.513519046246216,
+        "observed": 0.5446880269814502
+      },
+      "wrestling_exposure": {
+        "n": 593,
+        "accuracy": 0.6441821247892074,
+        "brier": 0.22174018375905413,
+        "logloss": 0.633827408914244,
+        "mean_probability": 0.5158108276954487,
+        "observed": 0.5446880269814502
+      }
+    }
+  },
+  "finish": {
+    "development": {
+      "baseline": {
+        "n": 984,
+        "accuracy": 0.7063008130081301,
+        "brier": 0.1983450389956626,
+        "logloss": 0.582403408064212,
+        "mean_probability": 0.3125530405200955,
+        "observed": 0.2997967479674797
+      },
+      "recent_stoppages": {
+        "n": 984,
+        "accuracy": 0.7083333333333334,
+        "brier": 0.198456289788829,
+        "logloss": 0.5825588465599344,
+        "mean_probability": 0.3176881977533394,
+        "observed": 0.2997967479674797
+      }
+    },
+    "later": {
+      "baseline": {
+        "n": 957,
+        "accuracy": 0.6603970741901777,
+        "brier": 0.21998995914309538,
+        "logloss": 0.6304888330894788,
+        "mean_probability": 0.3235998961704657,
+        "observed": 0.36468129571577845
+      },
+      "recent_stoppages": {
+        "n": 957,
+        "accuracy": 0.6478578892371996,
+        "brier": 0.21976781730920367,
+        "logloss": 0.6300601895246998,
+        "mean_probability": 0.3287428494696585,
+        "observed": 0.36468129571577845
+      }
+    }
+  },
+  "directional_finish": {
+    "development": {
+      "baseline": {
+        "n": 1284,
+        "accuracy": 0.852803738317757,
+        "brier": 0.12028470177905086,
+        "logloss": 0.3982533615725193,
+        "mean_probability": 0.15698544766080227,
+        "observed": 0.14719626168224298
+      },
+      "recent_stoppages": {
+        "n": 1284,
+        "accuracy": 0.852803738317757,
+        "brier": 0.12074448877772423,
+        "logloss": 0.39969248268711216,
+        "mean_probability": 0.15698544766080227,
+        "observed": 0.14719626168224298
+      }
+    },
+    "later": {
+      "baseline": {
+        "n": 1242,
+        "accuracy": 0.8333333333333334,
+        "brier": 0.13172006318391205,
+        "logloss": 0.4267895404388679,
+        "mean_probability": 0.1588866982621381,
+        "observed": 0.16586151368760063
+      },
+      "recent_stoppages": {
+        "n": 1242,
+        "accuracy": 0.8341384863123994,
+        "brier": 0.1321415068684963,
+        "logloss": 0.4281902408811145,
+        "mean_probability": 0.15888669826213814,
+        "observed": 0.16586151368760063
+      }
+    }
+  },
+  "shadow_70_to_80": {
+    "development": {
+      "n": 88,
+      "mean": 0.7373817175269802,
+      "wins": 62
+    },
+    "later": {
+      "n": 110,
+      "mean": 0.7381666683349117,
+      "wins": 84
+    }
+  }
+}
