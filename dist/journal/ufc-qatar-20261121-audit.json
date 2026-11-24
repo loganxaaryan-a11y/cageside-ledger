@@ -1,0 +1,338 @@
+{
+  "event": "ufc-qatar-20261121",
+  "snapshot": "journal/ufc-qatar-20261121-20261120T195701.csv",
+  "snapshot_as_of": "2026-11-20T19:57:01+00:00",
+  "scoring_rule": "Each matchup once from the last saved snapshot before the card; 50-51% is a toss-up.",
+  "summary": {
+    "CL-1": {
+      "settled": 8,
+      "picks": 7,
+      "correct": 5,
+      "tossups": 1
+    },
+    "Limited history": {
+      "settled": 4,
+      "picks": 3,
+      "correct": 2,
+      "tossups": 1
+    },
+    "same_book_favorites": {
+      "matched": 12,
+      "wins": 8
+    },
+    "pending": 0,
+    "void": 0
+  },
+  "misses": [
+    {
+      "matchup": [
+        "Kyoji Horiguchi",
+        "Asu Almabayev"
+      ],
+      "tier": "CL-1",
+      "pick": "Asu Almabayev",
+      "confidence": 0.5628191607176143,
+      "winner": "Kyoji Horiguchi",
+      "method": "Decision",
+      "favorite": "Kyoji Horiguchi",
+      "favorite_won": true,
+      "p_distance": 0.613842530660739,
+      "p_ko": 0.1855736418598966,
+      "p_submission": 0.21257921526160267
+    },
+    {
+      "matchup": [
+        "Amir Albazi",
+        "Alessandro Costa"
+      ],
+      "tier": "CL-1",
+      "pick": "Alessandro Costa",
+      "confidence": 0.5521284630570003,
+      "winner": "Amir Albazi",
+      "method": "Submission",
+      "favorite": "Alessandro Costa",
+      "favorite_won": false,
+      "p_distance": 0.5358074564694261,
+      "p_ko": 0.24932171583578694,
+      "p_submission": 0.16431259923286085
+    },
+    {
+      "matchup": [
+        "Jake Matthews",
+        "Tahir Abdullayev"
+      ],
+      "tier": "Limited history",
+      "pick": "Jake Matthews",
+      "confidence": 0.6674858613918723,
+      "winner": "Tahir Abdullayev",
+      "method": "Decision",
+      "favorite": "Jake Matthews",
+      "favorite_won": false,
+      "p_distance": 0.45260492797558266,
+      "p_ko": 0.33749442218847325,
+      "p_submission": 0.20674900789781203
+    }
+  ],
+  "largest_finish_surprises": {
+    "distance": {
+      "matchup": [
+        "Shamil Gaziev",
+        "Tallison Teixeira"
+      ],
+      "tier": "CL-1",
+      "pick": "Tallison Teixeira",
+      "confidence": 0.7187397010002704,
+      "winner": "Tallison Teixeira",
+      "method": "Decision",
+      "favorite": "Shamil Gaziev",
+      "favorite_won": false,
+      "p_distance": 0.2949743265989102,
+      "p_ko": 0.5782021319127649,
+      "p_submission": 0.09620534796202974
+    },
+    "KO/TKO": {
+      "matchup": [
+        "Shoaib Yousaf",
+        "John Mitchell"
+      ],
+      "tier": "Limited history",
+      "pick": "John Mitchell",
+      "confidence": 0.5165133320390268,
+      "winner": "John Mitchell",
+      "method": "KO/TKO",
+      "favorite": "John Mitchell",
+      "favorite_won": true,
+      "p_distance": 0.43994185618434395,
+      "p_ko": 0.27778211929667496,
+      "p_submission": 0.190711308663396
+    },
+    "submission": {
+      "matchup": [
+        "Amir Albazi",
+        "Alessandro Costa"
+      ],
+      "tier": "CL-1",
+      "pick": "Alessandro Costa",
+      "confidence": 0.5521284630570003,
+      "winner": "Amir Albazi",
+      "method": "Submission",
+      "favorite": "Alessandro Costa",
+      "favorite_won": false,
+      "p_distance": 0.5358074564694261,
+      "p_ko": 0.24932171583578694,
+      "p_submission": 0.16431259923286085
+    }
+  },
+  "challenger_comparison": {
+    "snapshot": "journal/challengers/ufc-qatar-20261121-3a1bbebfcf952e165041.json",
+    "recorded_at": "2026-11-21T01:07:04.534242+00:00",
+    "identical_decisive_bouts": 8,
+    "CL-1": {
+      "count": 8,
+      "brier": 0.17504016256247568,
+      "log_loss": 0.5317949317018783
+    },
+    "Recent striking v1": {
+      "count": 8,
+      "brier": 0.16837196862572099,
+      "log_loss": 0.5168277816282723
+    }
+  },
+  "outcomes": [
+    {
+      "matchup": [
+        "Jiří Procházka",
+        "Navajo Stirling"
+      ],
+      "tier": "CL-1",
+      "pick": "Navajo Stirling",
+      "confidence": 0.7335523711572288,
+      "winner": "Navajo Stirling",
+      "method": "KO/TKO",
+      "favorite": "Navajo Stirling",
+      "favorite_won": true,
+      "p_distance": 0.24801712488197797,
+      "p_ko": 0.6674798904359736,
+      "p_submission": 0.0875012073353644
+    },
+    {
+      "matchup": [
+        "Aljamain Sterling",
+        "Kevin Vallejos"
+      ],
+      "tier": "CL-1",
+      "pick": null,
+      "confidence": 0.5068713662687534,
+      "winner": "Kevin Vallejos",
+      "method": "Decision",
+      "favorite": "Kevin Vallejos",
+      "favorite_won": true,
+      "p_distance": 0.6003672911719543,
+      "p_ko": 0.2935696034615349,
+      "p_submission": 0.11267972811783956
+    },
+    {
+      "matchup": [
+        "Dan Hooker",
+        "Brian Ortega"
+      ],
+      "tier": "CL-1",
+      "pick": "Dan Hooker",
+      "confidence": 0.5490132052640498,
+      "winner": "Dan Hooker",
+      "method": "Decision",
+      "favorite": "Dan Hooker",
+      "favorite_won": true,
+      "p_distance": 0.45664406888448283,
+      "p_ko": 0.32448983110450086,
+      "p_submission": 0.1839298472708834
+    },
+    {
+      "matchup": [
+        "Kyoji Horiguchi",
+        "Asu Almabayev"
+      ],
+      "tier": "CL-1",
+      "pick": "Asu Almabayev",
+      "confidence": 0.5628191607176143,
+      "winner": "Kyoji Horiguchi",
+      "method": "Decision",
+      "favorite": "Kyoji Horiguchi",
+      "favorite_won": true,
+      "p_distance": 0.613842530660739,
+      "p_ko": 0.1855736418598966,
+      "p_submission": 0.21257921526160267
+    },
+    {
+      "matchup": [
+        "Jared Cannonier",
+        "Ikram Aliskerov"
+      ],
+      "tier": "CL-1",
+      "pick": "Ikram Aliskerov",
+      "confidence": 0.7770625918813758,
+      "winner": "Ikram Aliskerov",
+      "method": "Decision",
+      "favorite": "Ikram Aliskerov",
+      "favorite_won": true,
+      "p_distance": 0.5010854689997979,
+      "p_ko": 0.4423618737149633,
+      "p_submission": 0.0992942663074882
+    },
+    {
+      "matchup": [
+        "Aleksandre Topuria",
+        "Santiago Luna"
+      ],
+      "tier": "CL-1",
+      "pick": "Santiago Luna",
+      "confidence": 0.636211143612966,
+      "winner": "Santiago Luna",
+      "method": "Decision",
+      "favorite": "Aleksandre Topuria",
+      "favorite_won": false,
+      "p_distance": 0.562201205365939,
+      "p_ko": 0.2384938944310331,
+      "p_submission": 0.16718638232392014
+    },
+    {
+      "matchup": [
+        "Shamil Gaziev",
+        "Tallison Teixeira"
+      ],
+      "tier": "CL-1",
+      "pick": "Tallison Teixeira",
+      "confidence": 0.7187397010002704,
+      "winner": "Tallison Teixeira",
+      "method": "Decision",
+      "favorite": "Shamil Gaziev",
+      "favorite_won": false,
+      "p_distance": 0.2949743265989102,
+      "p_ko": 0.5782021319127649,
+      "p_submission": 0.09620534796202974
+    },
+    {
+      "matchup": [
+        "Amir Albazi",
+        "Alessandro Costa"
+      ],
+      "tier": "CL-1",
+      "pick": "Alessandro Costa",
+      "confidence": 0.5521284630570003,
+      "winner": "Amir Albazi",
+      "method": "Submission",
+      "favorite": "Alessandro Costa",
+      "favorite_won": false,
+      "p_distance": 0.5358074564694261,
+      "p_ko": 0.24932171583578694,
+      "p_submission": 0.16431259923286085
+    },
+    {
+      "matchup": [
+        "Jake Matthews",
+        "Tahir Abdullayev"
+      ],
+      "tier": "Limited history",
+      "pick": "Jake Matthews",
+      "confidence": 0.6674858613918723,
+      "winner": "Tahir Abdullayev",
+      "method": "Decision",
+      "favorite": "Jake Matthews",
+      "favorite_won": false,
+      "p_distance": 0.45260492797558266,
+      "p_ko": 0.33749442218847325,
+      "p_submission": 0.20674900789781203
+    },
+    {
+      "matchup": [
+        "Nikolas Motta",
+        "Dom Mar Fan"
+      ],
+      "tier": "Limited history",
+      "pick": null,
+      "confidence": 0.506575962183706,
+      "winner": "Dom Mar Fan",
+      "method": "Decision",
+      "favorite": "Dom Mar Fan",
+      "favorite_won": true,
+      "p_distance": 0.3497300270557523,
+      "p_ko": 0.3808230165344437,
+      "p_submission": 0.17618905650763828
+    },
+    {
+      "matchup": [
+        "Diyar Nurgozhay",
+        "Alik Lorenz"
+      ],
+      "tier": "Limited history",
+      "pick": "Diyar Nurgozhay",
+      "confidence": 0.5706377439368208,
+      "winner": "Diyar Nurgozhay",
+      "method": "KO/TKO",
+      "favorite": "Diyar Nurgozhay",
+      "favorite_won": true,
+      "p_distance": 0.34543377326749747,
+      "p_ko": 0.4132328694611013,
+      "p_submission": 0.2124297290773487
+    },
+    {
+      "matchup": [
+        "Shoaib Yousaf",
+        "John Mitchell"
+      ],
+      "tier": "Limited history",
+      "pick": "John Mitchell",
+      "confidence": 0.5165133320390268,
+      "winner": "John Mitchell",
+      "method": "KO/TKO",
+      "favorite": "John Mitchell",
+      "favorite_won": true,
+      "p_distance": 0.43994185618434395,
+      "p_ko": 0.27778211929667496,
+      "p_submission": 0.190711308663396
+    }
+  ],
+  "pending": [],
+  "void": [],
+  "verified_data_faults": []
+}

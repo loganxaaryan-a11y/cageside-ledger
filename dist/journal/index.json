@@ -1,5 +1,15 @@
 [
   {
+    "id": "ufc-saudi-arabia-20261205",
+    "event": "UFC Fight Night: Adesanya vs. Magomedov",
+    "date": "2026-12-05",
+    "asOf": "2026-11-24T14:04:13+00:00",
+    "file": "journal/ufc-saudi-arabia-20261205-20261124T140413.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "5f0acf05ef2e354c08ac26dab9d33ac15e0c0d3bc54b07ac82575120b66bff8e"
+  },
+  {
     "id": "ufc-qatar-20261121",
     "event": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
     "date": "2026-11-21",
@@ -7,7 +17,9 @@
     "file": "journal/ufc-qatar-20261121-20261120T195701.csv",
     "count": 12,
     "issued": 8,
-    "fingerprint": "4111aea59a14c5b831554c5c3a27182cfb1c85e7928c10e911bee1ae2ebacac2"
+    "fingerprint": "4111aea59a14c5b831554c5c3a27182cfb1c85e7928c10e911bee1ae2ebacac2",
+    "scored": "journal/ufc-qatar-20261121-20261120T195701-results-daa3b9c4c8.csv",
+    "result": "journal/ufc-qatar-20261121-20261120T195701-results-daa3b9c4c8.csv"
   },
   {
     "id": "ufc-qatar-20261121",
@@ -17,7 +29,9 @@
     "file": "journal/ufc-qatar-20261121-20261120T135851.csv",
     "count": 12,
     "issued": 8,
-    "fingerprint": "ed20ddb6e00a499bd061c35bb729a15ce1fb1becffadd935e1138ebddca3b9ed"
+    "fingerprint": "ed20ddb6e00a499bd061c35bb729a15ce1fb1becffadd935e1138ebddca3b9ed",
+    "scored": "journal/ufc-qatar-20261121-20261120T135851-results-daa3b9c4c8.csv",
+    "result": "journal/ufc-qatar-20261121-20261120T135851-results-daa3b9c4c8.csv"
   },
   {
     "id": "ufc-qatar-20261121",
@@ -27,7 +41,9 @@
     "file": "journal/ufc-qatar-20261121-20261119T200855.csv",
     "count": 12,
     "issued": 8,
-    "fingerprint": "7e6a93aca559fe71a2d58d87ce88051bbbf78bc67134208a3f6c4cd2555c390d"
+    "fingerprint": "7e6a93aca559fe71a2d58d87ce88051bbbf78bc67134208a3f6c4cd2555c390d",
+    "scored": "journal/ufc-qatar-20261121-20261119T200855-results-d502b94c86.csv",
+    "result": "journal/ufc-qatar-20261121-20261119T200855-results-d502b94c86.csv"
   },
   {
     "id": "ufc-334",

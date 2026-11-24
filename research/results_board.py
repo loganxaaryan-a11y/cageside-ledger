@@ -14,7 +14,15 @@ feed = (json.loads(Path(sys.argv[1]).read_text()) if len(sys.argv) > 1 else
         json.load(urlopen('https://site.api.espn.com/apis/site/v2/sports/mma/ufc/scoreboard?dates=' + date, timeout=25)))
 path = dist / 'results.json'
 archive = json.loads(path.read_text()) if path.exists() else {}
-rows = archive.setdefault(event['id'], {'name': event['event'], 'date': event['date'], 'bouts': {}})['bouts']
+event_record = archive.setdefault(event['id'], {
+    'name': event['event'],
+    'date': event['date'],
+    'firstBoutAt': event.get('firstBoutAt'),
+    'bouts': {},
+})
+# Add timing metadata to older in-progress records without rewriting settled bouts.
+event_record.setdefault('firstBoutAt', event.get('firstBoutAt'))
+rows = event_record['bouts']
 for card in feed['events']:
     cutoff = datetime.fromisoformat(card['date'].replace('Z', '+00:00'))
     forecasts = {}

@@ -363,5 +363,168 @@
         "p_submission": 0.13687476020589123
       }
     }
+  },
+  "ufc-qatar-20261121": {
+    "name": "UFC Fight Night: Proch\u00e1zka vs. Stirling",
+    "date": "2026-11-21",
+    "firstBoutAt": "2026-11-21T15:00:00+00:00",
+    "bouts": {
+      "Ji\u0159\u00ed Proch\u00e1zka|Navajo Stirling": {
+        "a": "Ji\u0159\u00ed Proch\u00e1zka",
+        "b": "Navajo Stirling",
+        "winner": "Navajo Stirling",
+        "method": "KO/TKO",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.2664476288427712,
+        "p_limited": null,
+        "p_distance": 0.24801712488197797,
+        "p_ko": 0.6674798904359736,
+        "p_submission": 0.0875012073353644
+      },
+      "Aljamain Sterling|Kevin Vallejos": {
+        "a": "Aljamain Sterling",
+        "b": "Kevin Vallejos",
+        "winner": "Kevin Vallejos",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.4931286337312466,
+        "p_limited": null,
+        "p_distance": 0.6003672911719543,
+        "p_ko": 0.2935696034615349,
+        "p_submission": 0.11267972811783956
+      },
+      "Dan Hooker|Brian Ortega": {
+        "a": "Dan Hooker",
+        "b": "Brian Ortega",
+        "winner": "Dan Hooker",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.5490132052640498,
+        "p_limited": null,
+        "p_distance": 0.45664406888448283,
+        "p_ko": 0.32448983110450086,
+        "p_submission": 0.1839298472708834
+      },
+      "Kyoji Horiguchi|Asu Almabayev": {
+        "a": "Kyoji Horiguchi",
+        "b": "Asu Almabayev",
+        "winner": "Kyoji Horiguchi",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.43718083928238566,
+        "p_limited": null,
+        "p_distance": 0.613842530660739,
+        "p_ko": 0.1855736418598966,
+        "p_submission": 0.21257921526160267
+      },
+      "Jared Cannonier|Ikram Aliskerov": {
+        "a": "Jared Cannonier",
+        "b": "Ikram Aliskerov",
+        "winner": "Ikram Aliskerov",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.22293740811862411,
+        "p_limited": null,
+        "p_distance": 0.5010854689997979,
+        "p_ko": 0.4423618737149633,
+        "p_submission": 0.0992942663074882
+      },
+      "Aleksandre Topuria|Santiago Luna": {
+        "a": "Aleksandre Topuria",
+        "b": "Santiago Luna",
+        "winner": "Santiago Luna",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.36378885638703395,
+        "p_limited": null,
+        "p_distance": 0.562201205365939,
+        "p_ko": 0.2384938944310331,
+        "p_submission": 0.16718638232392014
+      },
+      "Shamil Gaziev|Tallison Teixeira": {
+        "a": "Shamil Gaziev",
+        "b": "Tallison Teixeira",
+        "winner": "Tallison Teixeira",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.2812602989997296,
+        "p_limited": null,
+        "p_distance": 0.2949743265989102,
+        "p_ko": 0.5782021319127649,
+        "p_submission": 0.09620534796202974
+      },
+      "Amir Albazi|Alessandro Costa": {
+        "a": "Amir Albazi",
+        "b": "Alessandro Costa",
+        "winner": "Amir Albazi",
+        "method": "Submission",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "CL-1",
+        "p_a": 0.4478715369429997,
+        "p_limited": null,
+        "p_distance": 0.5358074564694261,
+        "p_ko": 0.24932171583578694,
+        "p_submission": 0.16431259923286085
+      },
+      "Jake Matthews|Tahir Abdullayev": {
+        "a": "Jake Matthews",
+        "b": "Tahir Abdullayev",
+        "winner": "Tahir Abdullayev",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "Limited history",
+        "p_a": null,
+        "p_limited": 0.6674858613918723,
+        "p_distance": 0.45260492797558266,
+        "p_ko": 0.33749442218847325,
+        "p_submission": 0.20674900789781203
+      },
+      "Nikolas Motta|Dom Mar Fan": {
+        "a": "Nikolas Motta",
+        "b": "Dom Mar Fan",
+        "winner": "Dom Mar Fan",
+        "method": "Decision",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "Limited history",
+        "p_a": null,
+        "p_limited": 0.506575962183706,
+        "p_distance": 0.3497300270557523,
+        "p_ko": 0.3808230165344437,
+        "p_submission": 0.17618905650763828
+      },
+      "Diyar Nurgozhay|Alik Lorenz": {
+        "a": "Diyar Nurgozhay",
+        "b": "Alik Lorenz",
+        "winner": "Diyar Nurgozhay",
+        "method": "KO/TKO",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "Limited history",
+        "p_a": null,
+        "p_limited": 0.5706377439368208,
+        "p_distance": 0.34543377326749747,
+        "p_ko": 0.4132328694611013,
+        "p_submission": 0.2124297290773487
+      },
+      "Shoaib Yousaf|John Mitchell": {
+        "a": "Shoaib Yousaf",
+        "b": "John Mitchell",
+        "winner": "John Mitchell",
+        "method": "KO/TKO",
+        "issued": "2026-11-20T19:57:01+00:00",
+        "tier": "Limited history",
+        "p_a": null,
+        "p_limited": 0.48348666796097317,
+        "p_distance": 0.43994185618434395,
+        "p_ko": 0.27778211929667496,
+        "p_submission": 0.190711308663396
+      }
+    }
   }
 }
