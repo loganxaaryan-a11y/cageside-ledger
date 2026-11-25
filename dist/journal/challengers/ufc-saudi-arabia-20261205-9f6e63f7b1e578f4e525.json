@@ -1,0 +1,39 @@
+{
+  "model": "Recent striking v1",
+  "event": "ufc-saudi-arabia-20261205",
+  "eventDate": "2026-12-05",
+  "inputAsOf": "2026-11-25T20:02:22+00:00",
+  "bouts": [
+    {
+      "a": "Israel Adesanya",
+      "b": "Shara Magomedov",
+      "cl1": 0.4561023541836433,
+      "shadow": 0.4579698680879983
+    },
+    {
+      "a": "Serghei Spivac",
+      "b": "Mario Pinto",
+      "cl1": 0.29447381334022343,
+      "shadow": 0.2699320600754641
+    },
+    {
+      "a": "Luke Riley",
+      "b": "Gabriel Santos",
+      "cl1": 0.5935976456859663,
+      "shadow": 0.6278958538637716
+    },
+    {
+      "a": "Marco Tulio",
+      "b": "JunYong Park",
+      "cl1": 0.5210597047586935,
+      "shadow": 0.5375047402096129
+    },
+    {
+      "a": "Mateusz R\u0119becki",
+      "b": "Elves Brener",
+      "cl1": 0.5000575697134512,
+      "shadow": 0.5370001986907866
+    }
+  ],
+  "recordedAt": "2026-11-25T20:04:46.337014+00:00"
+}
