@@ -3,6 +3,16 @@
     "id": "ufc-saudi-arabia-20261205",
     "event": "UFC Fight Night: Adesanya vs. Magomedov",
     "date": "2026-12-05",
+    "asOf": "2026-11-27T20:04:08+00:00",
+    "file": "journal/ufc-saudi-arabia-20261205-20261127T200408.csv",
+    "count": 14,
+    "issued": 5,
+    "fingerprint": "dd6ce40cdea22816498d0f2c992b7fc54b07c8cee5b0ceb07498d80b7ca815f5"
+  },
+  {
+    "id": "ufc-saudi-arabia-20261205",
+    "event": "UFC Fight Night: Adesanya vs. Magomedov",
+    "date": "2026-12-05",
     "asOf": "2026-11-27T14:00:56+00:00",
     "file": "journal/ufc-saudi-arabia-20261205-20261127T140056.csv",
     "count": 14,
